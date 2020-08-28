@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "133832767855",
+    "firebase_url": "https://nogozo.firebaseio.com",
+    "project_id": "nogozo",
+    "storage_bucket": "nogozo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133832767855:android:1d8d0e13fba3bb3db8109a",
+        "android_client_info": {
+          "package_name": "com.example.nogozo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133832767855-prcn5rvkbmqkt4aqgosne5lno2uvsrjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nogozo",
+            "certificate_hash": "5353fdd60da12646f40334aa9edd7020d20bc639"
+          }
+        },
+        {
+          "client_id": "133832767855-b29ig148di0abta2oglejq1ra9s7kjfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqq9BRyG3pu0m2bdIjkBI1k-Kibyei5lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133832767855-b29ig148di0abta2oglejq1ra9s7kjfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
